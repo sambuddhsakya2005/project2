@@ -1,3 +1,2 @@
-# NEW PROJECT
-This project created from local system
-Created by sambuddh sakya.
+# Summarizer-HF
+Text Summarizer App - Transformer Minor Project (using HuggingFace & FastAPI)
